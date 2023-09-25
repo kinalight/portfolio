@@ -111,7 +111,17 @@ a {
   transition-duration: 0.5s;
 }
 
-a:hover {
+.contact-link:hover {
+  color:  currentcolor;
+  scale: 1.1;
+}
+
+.launch-link:hover {
+  color:  currentcolor;
+  scale: 1.1;
+}
+
+.about-link:hover {
   color:  currentcolor;
   scale: 1.1;
 }
